@@ -1,2 +1,2 @@
 module.exports = props =>
-`this is `
+`this is really sweet ${props.emoji}`
