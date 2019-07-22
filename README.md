@@ -3,5 +3,5 @@
 ### Quickstart
 
 ```
-npm i test-react-component
+npm i mildly-sweet-react-component
 ```
